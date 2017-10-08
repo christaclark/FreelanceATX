@@ -497,7 +497,7 @@ Features-stack
   .features .iphone-wrap {
     width: 304px;
     height: 620px;
-    background: url("../img/iphone6.png") no-repeat center center;
+    background: url("../img/iphone6.png") no-repeat center center; 
     position: absolute;
     left: 530px;
     bottom: 129px;
@@ -525,7 +525,7 @@ Features-stack
     position: absolute;
     width: 916px;
     height: 540px;
-    background: url("../img/macbook-pro.png") no-repeat center center;
+    background: url("../img/teaching.png") no-repeat center center;
     top: 114px;
     z-index: 4;
     left: 50%; }
@@ -535,7 +535,7 @@ Features-stack
 ========================================================================== */
 .hero-strip {
   margin-top: 120px;
-  background: #333844 url("../img/polygonal-bg.jpg") no-repeat center center;
+  background: #333844 url("../img/skateboard.png") no-repeat center center;
   padding-bottom: 190px;
   position: relative; }
   .hero-strip i {
